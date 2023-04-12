@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/WgDRfmTnS4YULqzlXKSWVK6Bj++ARQliewR2zo+gavbeDpkFmhiKg+Oxi0IfVF9aSo0OGFaTbevG8wywgRIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kingsley Brodie\\Desktop\\Swinburne_computer_science\\y1\\y1_sem02\\OOP\\doubtfire\\swin_adventure_v8.1(best_console)\\Swin_Adventure\\IdentifiableObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kingsley Brodie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
